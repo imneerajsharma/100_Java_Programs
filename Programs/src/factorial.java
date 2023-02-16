@@ -3,11 +3,14 @@ public class factorial {
     static int result=1;
 
     static int fact(int n){
-        while(n>0){             // using loop
-            result*=n;
-            n--;
-        }
-        return result;
+//        while(n>0){             // using loop
+//            result*=n;
+//            n--;
+//        }
+
+        if(n<=1) return 1;
+
+        return n*fact(n-1);         // optimized code using recrusion
     }
 
     public static void main (String [] args){
