@@ -63,12 +63,41 @@ public class star_Pattern {
         }
     }
 
+/*
+## Printing the pattern 4 ##
+     *
+    **
+   ***
+  ****
+ *****
+******
+
+*/
+public static void pattern4(int n)
+{
+    for(int i=0;i<=n;i++){
+        for(int j=n ; j>i;j--){
+            System.out.print(" ");
+        }
+        for(int k=0 ; k<=i;k++){
+            System.out.print("*");
+        }
+
+
+        System.out.println();
+
+    }
+}
+
+
+
+
 
     public static void main(String[] args){
         Scanner scanner=new Scanner(System.in);
         System.out.print("Enter the Value : ");
         int n=scanner.nextInt();
-        pattern3(n);
+        pattern4(n);
 
     }
 }
