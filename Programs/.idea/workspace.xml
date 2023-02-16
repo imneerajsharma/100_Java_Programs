@@ -34,14 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.compare_2_Strings">
-    <configuration name="add_2_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="add_2_numbers" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.star_Pattern">
     <configuration name="check_Odd_Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="check_Odd_Even" />
       <module name="Programs" />
@@ -70,13 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="star_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="star_Pattern" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.star_Pattern" />
         <item itemvalue="Application.compare_2_Strings" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.check_Odd_Even" />
         <item itemvalue="Application.largest_Number" />
-        <item itemvalue="Application.add_2_numbers" />
       </list>
     </recent_temporary>
   </component>
