@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.add_2_numbers">
+  <component name="RunManager" selected="Application.largest_Number">
     <configuration name="add_2_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="add_2_numbers" />
       <module name="Programs" />
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="get_Input_From_User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="get_Input_From_User" />
+    <configuration name="largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="largest_Number" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.largest_Number" />
         <item itemvalue="Application.add_2_numbers" />
         <item itemvalue="Application.swap_two_numbers_without_using_3_variables" />
         <item itemvalue="Application.swap_two_numbers_using_3_variables" />
         <item itemvalue="Application.fahrenheit_to_Celsius" />
-        <item itemvalue="Application.get_Input_From_User" />
       </list>
     </recent_temporary>
   </component>
