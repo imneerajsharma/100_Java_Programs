@@ -26,6 +26,6 @@ public class largest_Number {
         System.out.println(largest + " : is a largest number using ternary operator ");
 
 
-        
+
     }
 }
