@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.check_Odd_Even">
+  <component name="RunManager" selected="Application.factorial">
     <configuration name="add_2_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="add_2_numbers" />
       <module name="Programs" />
@@ -49,15 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="largest_Number" />
+    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factorial" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swap_two_numbers_using_3_variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swap_two_numbers_using_3_variables" />
+    <configuration name="largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="largest_Number" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.factorial" />
         <item itemvalue="Application.check_Odd_Even" />
         <item itemvalue="Application.largest_Number" />
         <item itemvalue="Application.add_2_numbers" />
         <item itemvalue="Application.swap_two_numbers_without_using_3_variables" />
-        <item itemvalue="Application.swap_two_numbers_using_3_variables" />
       </list>
     </recent_temporary>
   </component>
