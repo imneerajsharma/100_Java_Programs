@@ -34,14 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.print_Reverse_Number">
-    <configuration name="check_Odd_Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="check_Odd_Even" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.enhance_loops">
     <configuration name="compare_2_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="compare_2_Strings" />
       <module name="Programs" />
@@ -49,8 +42,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factorial" />
+    <configuration name="enhance_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enhance_loops" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="while_loop_using_break_continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="while_loop_using_break_continue" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.enhance_loops" />
+        <item itemvalue="Application.while_loop_using_break_continue" />
         <item itemvalue="Application.print_Reverse_Number" />
         <item itemvalue="Application.star_Pattern" />
         <item itemvalue="Application.compare_2_Strings" />
-        <item itemvalue="Application.factorial" />
-        <item itemvalue="Application.check_Odd_Even" />
       </list>
     </recent_temporary>
   </component>

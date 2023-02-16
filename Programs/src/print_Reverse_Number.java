@@ -14,9 +14,14 @@ public class print_Reverse_Number {
     }
     public static void main(String [] args){
         Scanner scanner=new Scanner(System.in);
-        System.out.print("Enter  a Value : ");
-        int input=scanner.nextInt();
-        reverse(input);
+        try{
+            System.out.print("Enter  a Value : ");
+            int input=scanner.nextInt();
+            reverse(input);
+        }
+        finally{
+            scanner.close();
+        }
 
     }
 }
