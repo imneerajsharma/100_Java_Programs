@@ -34,16 +34,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.floyds_Triangle">
-    <configuration name="armstrong_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="armstrong_Number" />
+  <component name="RunManager" selected="Application.Prints_All_The_SubString">
+    <configuration name="Prints_All_The_SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prints_All_The_SubString" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="enhance_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enhance_loops" />
+    <configuration name="armstrong_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="armstrong_Number" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prints_All_The_SubString" />
         <item itemvalue="Application.floyds_Triangle" />
         <item itemvalue="Application.armstrong_Number" />
         <item itemvalue="Application.print_N_Prime_numbers" />
         <item itemvalue="Application.prime_Number_Checker" />
-        <item itemvalue="Application.enhance_loops" />
       </list>
     </recent_temporary>
   </component>
