@@ -1,12 +1,13 @@
 import java.util.Scanner;
 public class armstrong_Number {
 
-    static void check_Arm(int num){
+    static int check_Arm(int num){
         int n=0;
         int sum=0;
         int temp=num;
         if(num<10){
             System.out.println("Entered number is not an Armstrong Number");
+            return -1;
         }
         /*
         int n=0;
@@ -62,6 +63,7 @@ public class armstrong_Number {
         else{
             System.out.println("Entered number is not an Armstrong Number");
         }
+        return 0;
     }
 
 
